@@ -1,9 +1,9 @@
 ---
 title: RPCS Office Portal
-description:
-icon:
+description: 
+icon: 
 hide:
-- footer
+  - footer
 ---
 
 # Welcome
