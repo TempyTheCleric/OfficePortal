@@ -1,8 +1,9 @@
 ---
 title: Billing
 description:
-icon:
+icon: material/receipt-send
 hide:
+- footer
 ---
 
 # Billing
