@@ -154,7 +154,7 @@ cython_debug/
 
 # Files
 .obsidian
-.private
+z_Private
 z_Templates
 
 # PyCharm
