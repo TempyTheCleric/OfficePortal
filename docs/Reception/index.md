@@ -1,7 +1,7 @@
 ---
 title: Reception
 description:
-icon:
+icon: material/phone-classic
 hide:
 ---
 
