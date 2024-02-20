@@ -1,7 +1,7 @@
 ---
 title: Office Admin
 description:
-icon: material/home-account
+icon: material/spa
 hide:
 - footer
 ---
