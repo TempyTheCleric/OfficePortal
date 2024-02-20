@@ -154,6 +154,8 @@ cython_debug/
 
 # Files
 .obsidian
+.private
+z_Templates
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
