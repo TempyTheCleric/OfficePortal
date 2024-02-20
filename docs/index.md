@@ -1,10 +1,9 @@
 ---
-title: RPCS Office Portal
+title: Home
 description: 
 icon: material/home-account
 hide:
   - footer
-  - navigation
 ---
 
 # Welcome

@@ -40,6 +40,11 @@ theme:
       - javascripts/tablesort.js
 
     markdown_extensions:
+      - pymdownx.critic
+      - pymdownx.caret
+      - pymdownx.keys
+      - pymdownx.mark
+      - pymdownx.tilde
       - abbr
       - def_list
       - pymdownx.tasklist:
